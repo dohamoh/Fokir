@@ -1,0 +1,691 @@
+<html>
+<head>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@1,700&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <!-- <link rel="stylesheet" href="../css/bootstrap.css"> -->
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@900&display=swap" rel="stylesheet">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="myProjects/webProject/icofont/css/icofont.min.css">
+    <script src="https://kit.fontawesome.com/7f67775be0.js" crossorigin="anonymous"></script>
+    
+
+    <link rel="stylesheet" href="/style.css">
+</head>
+
+<body class="m-0">
+    <nav class="navbar navbar-expand-lg navbar-dark  ">
+        <div class="container-fluid  ">
+          <h1 class="navbar-brand  " href="#">Fokir</h1>
+          <div class="collapse navbar-collapse   " id="navbarNav">
+            <ul class="navbar-nav d-flex align-items-center justify-content-evenly end-0 position-absolute   w-25">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Features</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Pricing</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link disabled">Disabled</a>
+                  </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    <header>
+    <div id="2" class="con2 col-12 row py-5">
+        <div class="img2 col-lg-6 col-sm-12  d-flex align-items-center justify-content-center ">
+            <img class="ms-5 img2 position-absolute" src="/images/profile.jpeg" alt="">
+
+            <div class="bord position-relative"></div>
+        </div>
+        <div class="text2 col-lg-6 col-sm-10 offset-sm-2 offset-lg-0 ">
+            <div class="text2-1">
+                <h1 class="h1">HELLO,</h1>
+                <P class=" col-md-10">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+                    incididunt ut labore
+                    et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+                    aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+                    culpa qui officia deserunt mollit anim id est laborum.
+                </P>
+
+            </div>
+            <div class="c1 col-12 row ">
+                <p class=" col-6 col"> <span>Name:</span> Rdam smith</p>
+
+                <p class=" col-6"> <span>Age:</span> 26 Year</p>
+
+                <p class=" col-6"> <span>Freelance:</span> Available</p>
+
+                <p class=" col-6"><span>Job Title:</span> UI/UX Designer</p>
+
+                <p class=" col-6"><span>Location:</span> United States, US</p>
+
+                <p class=" col-6"><span>E-mail:</span> Nadia420@gmail.com</p>
+            </div>
+            <div class="btnc1">
+                <button class="btn btn-danger rounded-3"> Download CV <i class="fas fa-download"></i></button>
+                <button class="btn btn-danger rounded-3"> Hire Me <i class="fas fa-paper-plane"></i></button>
+            </div>
+        </div>
+    </div>
+    <!-- -------------------------------333333333333333333333333333333333333-------------------------------------- -->
+    <div id="3" style=" padding: 60px 0 60px 0;  background-color: rgb(238, 238, 238);" class="con3">
+        <div class=" d-flex flex-column align-items-center mb-0 addr">
+            <h2>Our Services</h2>
+            <div class="kht1"></div>
+            <div class="kht2"></div>
+            <div class="kht1"></div>
+        </div>
+        <div class="cc3  col-12 row d-flex flex-row align-items-center  h-50 text-center mb-sm-5 mb-md-0" style="">
+            <div class="t col-lg-3 col-md-6 col-sm-12">
+                <i class="fas fa-pencil-ruler"></i>
+                <h2>UI/UX DESIGN</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione adipisci mollitia quis necstatibus.
+                </p>
+            </div>
+            <div class="t col-lg-3 col-md-6 col-sm-12">
+                <i class="fas fa-code"></i>
+                <h2>APP DEVELOPMENT</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione adipisci mollitia quis necstatibus.
+                </p>
+            </div>
+            <div class="t col-lg-3 col-md-6 col-sm-12">
+                <i class="fab fa-product-hunt"></i>
+                <h2>PRODUCT DESIGN</h2>
+                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione adipisci mollitia quis
+                    necstatibus. </p>
+            </div>
+            <div class="t col-lg-3 col-md-6 col-sm-12">
+                <i class="fas fa-cogs"></i>
+                <h2>UI/UX DESIGN</h2>
+                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione adipisci mollitia quis
+                    necstatibus.</p>
+            </div>
+        </div>
+    </div>
+    <!-- -------------------------------4444444444444444444444444444444444---------------------------------- -->
+    <div id="4" class="con4 py-5">
+        <div class="textc4 d-flex flex-column align-items-center">
+            <h2>Our Portfolio</h2>
+            <div class="kht1"></div>
+            <div class="kht2"></div>
+            <div class="kht1"></div>
+        </div>
+        <div class="align-items-center justify-content-center d-flex mt-4 col-lg-4  offset-lg-4  col-md-6 offset-md-3 col-sm-6 offset-sm-3">
+            <ul class=" text-decoration-none list-unstyled d-flex justify-content-evenly w-100 ">
+                <li>ALL</li>
+                <li>GRAPHIC</li>
+                <li>WEB DESI</li>
+                <li>BTANDING</li>
+            </ul>
+        </div>
+        <div class="img4c4 col-12  container d-flex flex-wrap">
+            <img class="imgc4 im1 col-lg-4 col-md-6 col-sm-12" src="/images/1.jpeg" alt="">
+            <img class="imgc4 im2 col-lg-4 col-md-6 col-sm-12" src="/images/2.jpeg" alt="">
+            <img class="imgc4 im3 col-lg-4 col-md-6 col-sm-12" src="/images/3.jpeg" alt="">
+            <img class="imgc4 im4 col-lg-4 col-md-6 col-sm-12" src="/images/4.jpeg" alt="">
+            <img class="imgc4 im5 col-lg-4 col-md-6 col-sm-12" src="/images/5.jpeg" alt="">
+            <img class="imgc4 im6 col-lg-4 col-md-6 col-sm-12" src="/images/6.jpeg" alt="">
+</div>
+
+    </div>
+    <!-- -----------------------------55555555555555555555555555555--------------------------------------- -->
+    <div class="con5 col-12 row text-center">
+        <div class="iconc5 col-lg-3 col-md-6 col-sm-12">
+            <i class="fas fa-users"></i>
+            <h2>200</h2>
+            <p>Team members</p>
+        </div>
+        <div class="iconc5 col-lg-3 col-md-6 col-sm-12">
+            <i class="far fa-copy"></i>
+            <h2>345</h2>
+            <p>Complete Projects</p>
+        </div>
+        <div class="iconc5 col-lg-3 col-md-6 col-sm-12">
+            <i class="fas fa-cloud-download-alt"></i>
+            <h2>1800</h2>
+            <p>Files Downloaded
+            </p>
+        </div>
+        <div class="iconc5 col-lg-3 col-md-6 col-sm-12">
+            <i class="fas fa-coffee"></i>
+            <h2>1200</h2>
+            <p>Lines Of Code</p>
+        </div>
+    </div>
+    <div class="clear-fix"></div>
+    <!-- -----------------------6666666666666666666666666666-------------------------------- -->
+    <div id="6" class="con6">
+
+        <div class="textc6">
+            <h2>Client's Feedback</h2>
+            <div class="kht1"></div>
+            <div class="kht2"></div>
+            <div class="kht1"></div>
+        </div>
+
+        <div class="img6">
+            <img src="/images/cf.jpeg" alt="">
+        </div>
+
+    </div>
+    <!-- ------------------------------------------------77777777777777777777777777777777777777---------------------- -->
+    <div id="7" class="con7">
+        <div class="textc7 d-flex flex-column align-items-center justify-content-center mb-5">
+            <h2>Our Blog</h2>
+            <div class="kht1"></div>
+            <div class="kht2"></div>
+            <div class="kht1"></div>
+        </div>
+        <div class="blog col-12 row">
+            <div class="item7 offset-sm-3 offset-lg-0 col-sm-6 p-lg-5 p-sm-0 col-lg-4">
+                <a href=""><img class=" w-100" src="/images/blog-1.jpeg" alt=""></a>
+
+                <p> 23 November, 2015</p>
+                    <h3>Web Design Blog Post</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur ea, quis magnam deserunt eius
+                    incidunt repellat molestiae.
+                <p>
+                        <p> READ MORE <i class="fas fa-long-arrow-alt-right"></i></p>
+
+            </div>
+            <div class="item7 offset-sm-3 offset-lg-0 col-sm-6 p-lg-5 p-sm-0 col-lg-4">
+                <a href=""><img class=" w-100"  src="/images/blog-1.jpeg" alt=""></a>
+                <p> 20 April, 2018</p>
+                    <h3>Development Blog Post</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur ea, quis magnam deserunt eius
+                    incidunt repellat molestiae.
+                <p>
+                
+                        <p>READ MORE <i class="fas fa-long-arrow-alt-right"></i></p>
+                    
+            </div>
+            <div class="item7 offset-sm-3 offset-lg-0 col-sm-6 p-lg-5 p-sm-5 col-lg-4">
+                <a href=""><img class=" w-100 "  src="/images/blog-2.jpeg" alt=""></a>
+                <p> 17 May, 2017</p>
+                    <h3> Full Width Blog Post</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur ea, quis magnam deserunt eius
+                    incidunt repellat molestiae.
+                <p>
+                        <p> READ MORE <i class="fas fa-long-arrow-alt-right"></i></p>
+            </div>
+        </div>
+    </div>
+    </div>
+    <!-- ----------------------------------8888888888888888888888888888888888888-------------------------- -->
+    <div id="8" class="con8">
+        <div class="textc8">
+            <h2>Contact Us</h2>
+            <div class="kht1"></div>
+            <div class="kht2"></div>
+            <div class="kht1"></div>
+        </div>
+        <div class=" container py-5">
+            <div class="contact  row col-12">
+                <input type="text" placeholder="Email" class="col-sm-12 col-lg-6 rounded-3 py-1 ">
+                <input type="text" placeholder="Name" class="col-sm-12 col-lg-6 rounded-3 py-1 mt-sm-2 mt-lg-0 ">
+                <input type="text" placeholder="subject" class="col-12 rounded-3 py-1 mt-2  ">
+                <textarea placeholder="message for me" class=" col-12 mt-2 rounded-3" id="" cols="30" rows="10"></textarea>
+
+
+            </div>
+        </div>
+    <!-- -----------------------------------9999999999999999999999999------------------------- -->
+    <div class="con9">
+        <div class="icon9">
+            <i class="fab fa-facebook-f"></i>
+            <i class="fab fa-twitter"></i>
+            <i class="fab fa-google"></i>
+            <i class="fab fa-github"></i>
+        </div>
+        <div class="text9">
+            <p>Copy Right 2018 © By <span><a href="#1"> Theme-fair </a></span> All Rights Reserved</p>
+        </div>
+    </div>
+    <!-- JavaScript Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
+
+</body>
+</html>
+
+
+<!-- ////////////////////////////////////////////////// -->
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+}
+
+
+header {
+    background-image: url(/images/bg.jpeg);
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+nav {
+   
+    background-color:#0c0c0c
+}
+
+.logo {
+    width: 15%;
+    display: flex;
+    justify-content: flex-end;
+    color: rgb(226, 6, 72);
+    font-family: 'Roboto', sans-serif;
+}
+/* 
+.list {
+    width: 35%;
+    margin-right: 12%;
+}
+
+.list ul {
+    list-style-type: none;
+    display: flex;
+    padding: 0;
+    justify-content: space-around;
+}
+
+.list ul a {
+    text-decoration: none;
+    color: white;
+    font-size: 17;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+}
+
+ul li .home {
+    color: rgb(255, 48, 91);
+}
+
+.list ul a:hover {
+    color: rgb(255, 48, 91);
+} */
+
+.text1 h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    font-weight: 900;
+    margin-bottom: 5px;
+
+}
+
+.text1 h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    color: rgb(255, 48, 91);
+    font-size: 70px;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.text1 p {
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 18;
+    font-weight: 600;
+    margin-top: 5px;
+}
+
+/* -------------------------222222222222222222222222222222222222222222222222------------------------- */
+.img2 {
+    width: 50%;
+    height: 100%;
+    position: relative;
+    z-index: 99999 !important;
+    border-radius: 30px;
+
+}
+
+.bord {
+    width: 48%;
+    height: 440px;
+    border: 10px solid rgb(66, 66, 66);
+    border-radius: 30px;
+    bottom: 30px !important;
+    right: 30px;
+}
+
+.h1:before {
+    content: "I" !important;
+
+    color: rgb(255, 48, 91);
+
+}
+
+.cc3 .t {
+    padding: 50px 30px !important;
+}
+
+.cc3 .t:hover {
+    background-color: rgb(255, 255, 255);
+    transition: 0.5s;
+}
+
+@media screen and (max-width : 767px) {
+    .cc3 .t {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .cc3 .t p {
+        width: 350px;
+    }
+
+    .con3 {
+        padding-bottom: 700px !important;
+    }
+
+    .addr {
+        padding-bottom: 50px !important;
+    }
+}
+@media only screen and (min-width:767px) and (max-width : 991px ) {
+    .con3 {
+        padding-bottom: 100px !important;
+    }
+}
+
+/* -----------------------------4444444444444444444444444444444444444444-------------------------- */
+
+.imgc4{
+    padding: 30px;
+    box-sizing: border-box;
+}
+.con4 ul li:hover{
+color: rgb(174, 114, 114)!important;
+transition: 0.5s;
+cursor: pointer;}
+/* --------------------------------5555555555555555555555555-------------------------- */
+.con5 {
+
+    width: 100%;
+    height: auto;
+    background-color: rgb(245, 245, 245);
+padding: 50px 0;
+
+
+}
+
+.iconc5 {
+    width: 18%;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.iconc5 p {
+    color: rgb(92, 88, 88);
+
+}
+
+.con5 .iconc5 i {
+    color: rgb(255, 48, 91);
+    font-size: 25;
+}
+
+
+
+/* --------------------------------------------666666666666666666666666666666666-------------------------- */
+.con6 {
+    width: 100%;
+    margin-top: 40px;
+}
+
+.textc6 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 25;
+    color: rgb(63, 63, 63);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+
+}
+
+.kht1 {
+    width: 70px;
+    height: .5px;
+    background-color: rgb(255, 48, 91);
+    text-align: center;
+}
+
+.kht2 {
+    width: 170;
+    height: .5px;
+    background-color: rgb(255, 48, 91);
+    text-align: center;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+
+.img6 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+
+}
+
+.img6 img {
+    margin-top: 40px;
+    width: 50%;
+}
+
+/* ------------------------------------77777777777777777777777777777777777777-------------------------- */
+.con7 {
+    height: auto;
+    padding: 50px 0;
+   
+}
+
+/* .textc7 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 25;
+    color: rgb(63, 63, 63);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    top: 50px;
+} */
+
+.kht1 {
+    width: 70px;
+    height: .5px;
+    background-color: rgb(255, 48, 91);
+    text-align: center;
+}
+
+.kht2 {
+    width: 170;
+    height: .5px;
+    background-color: rgb(255, 48, 91);
+    text-align: center;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+.item7 {
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: rgb(243, 243, 243);
+margin: 10px 0;
+padding: 0!important;
+
+}
+
+
+
+
+
+
+/* ----------------------------------888888888888888888888888888888888888888888888------------------------ */
+.con8 {
+    width: 100%;
+    height: 70%;
+
+}
+
+.textc8 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 25;
+    color: rgb(63, 63, 63);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+.kht1 {
+    width: 70px;
+    height: .5px;
+    background-color: rgb(255, 48, 91);
+    text-align: center;
+}
+
+.kht2 {
+    width: 170;
+    height: .5px;
+    background-color: rgb(255, 48, 91);
+    text-align: center;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+/* 
+.contact {
+    width: 100%;
+    height: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 40px;
+
+}
+
+.input1 input {
+    width: 330px;
+    height: 35px;
+    margin: 0 15px;
+    border-radius: 6% 1% 6% 1% 6% 1% 6% 1%;
+    padding-left: 15px;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+.input2 input {
+    width: 695;
+    height: 35;
+    border-radius: 12% 1% 12% 1% 12% 1% 12% 1%;
+    margin-top: 30px;
+    margin-left: 15px;
+    padding-left: 15px;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+.textarea textarea {
+    margin-top: 20px;
+    margin-left: 15px;
+    padding-left: 15px;
+    padding-top: 10px;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+.con8 button {
+    width: 150px;
+    height: 40px;
+    background-color: rgb(255, 48, 91);
+    color: white;
+    margin-top: 30px;
+    margin-left: 15px;
+    border-radius: 10px;
+    border: none;
+    transition: 0.3s;
+}
+
+.con8 button a {
+    text-decoration: none;
+    color: white;
+}
+
+.con8 button:hover {
+    background-color: rgb(255, 0, 0);
+}
+ */
+
+/* ------------------------------99999999999999999999999999999999------------------------------ */
+.con9 {
+    width: 100%;
+    height: 23%;
+    background-color: rgb(51, 51, 51);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 16;
+    flex-direction: column;
+    padding-top: 10px;
+
+}
+
+.con9 i {
+    margin: 0 10px;
+    transition: .3s;
+}
+
+.text9 span {
+    color: rgb(255, 48, 91);
+}
+
+.icon9 i:hover {
+    color: rgb(255, 48, 91);
+}
+
+.text9 p a {
+    text-decoration: none;
+    color: rgb(255, 48, 91);
+}
+
+.con9 button {
+    width: 70px;
+    height: 25px;
+    background-color: rgb(255, 48, 91);
+    color: white;
+}
